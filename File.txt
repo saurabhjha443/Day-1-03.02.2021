@@ -1,5 +1,6 @@
 Hello world 
 Am I visible
-yes I am visible
-
 New Code after master
+yes I am visible.
+
+I am bug issue resolved
