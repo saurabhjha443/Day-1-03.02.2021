@@ -8,4 +8,6 @@ this is resolved
 
 Something for new stash
 
-Testing remote fetch and pull
+Successfully tested Testing remote fetch and pull
+
+What happens when someone commit rebase on remote repository
