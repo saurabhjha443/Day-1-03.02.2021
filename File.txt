@@ -7,3 +7,5 @@ I am bug issue resolved
 this is resolved
 
 Something for new stash
+
+Testing remote fetch and pull
