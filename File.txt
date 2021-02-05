@@ -11,3 +11,6 @@ Something for new stash
 Successfully tested Testing remote fetch and pull
 
 What happens when someone commit rebase on remote repository
+Testing remote fetch and pull
+
+Change 3 : testing rebase in remote
